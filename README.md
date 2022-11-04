@@ -18,3 +18,5 @@ Gene by gene
 ## 4.Multi-loci
 
 ## 5.Haplotype
+
+## 6.A-G-H matrix
