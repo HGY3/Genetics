@@ -24,3 +24,8 @@ Gene by gene
 ## 5.Haplotype
 
 ## 6.A-G-H matrix
+
+## 7.GWAS
+
+## 8.TE
+Transposable Elements(TE)
