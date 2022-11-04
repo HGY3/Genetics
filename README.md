@@ -1,14 +1,11 @@
 # Genetics
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
 
-:writing_hand: ***keep update and continue.*** :writing_hand:
+:writing_hand: ***Keep Update and Continue.*** :writing_hand:
 
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
 
-
-https://github.com/darsaveli/Readme-Markdown-Syntax
-
-https://github.com/ikatyang/emoji-cheat-sheet
+Genetics is based on ***variation*** and ***inheritance***. Genetics simplifies the complexity and diversity of life, which makes the nature easliy understood. However, there are some fundamental and pivotal queations in Genetics. Here is our thoughts about Genetics. Thanks for your attention.
 
 
 ## 1.Epistasis
