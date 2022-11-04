@@ -29,3 +29,10 @@ Gene by gene
 
 ## 8.TE
 Transposable Elements(TE)
+
+## 9.Variant
+SNP
+InDel
+SV
+
+
